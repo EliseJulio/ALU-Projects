@@ -1,4 +1,3 @@
-const apikey = "9edc49c2dc258c552dd6f23abec1ada8";
 
 window.addEventListener("load", () => {
     if (navigator.geolocation) {
